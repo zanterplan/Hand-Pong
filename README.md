@@ -1,5 +1,7 @@
 # Ping Pong Game using Hand Gestures
 
+This repository presents an interactive Python game called Handpong. The main goal is to keep the ball in the air as long as possible by using hand gestures to control the paddle. Different effecs, such as bonus points, minus points, additional ball or power ups, can be observed and interacted with.
+
 ## Requirements
 
 pip install mediapipe numpy pygame opencv-python
