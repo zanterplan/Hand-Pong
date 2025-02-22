@@ -2,7 +2,7 @@
 
 ## Requirements
 
-pip install mediapipe numpy opencv-python
+pip install mediapipe numpy pygame opencv-python
 
 ## How to play
 
@@ -25,7 +25,7 @@ When in game, press:
 
 ## Predpogoji
 
-Odpri terminal in vpiši ukaz: pip install mediapipe numpy opencv-python.
+Odpri terminal in vpiši ukaz: pip install mediapipe numpy pygame opencv-python
 
 ## Kako igrati
 
